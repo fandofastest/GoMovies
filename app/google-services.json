@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "530337390973",
+    "firebase_url": "https://gomovies-83805.firebaseio.com",
+    "project_id": "gomovies-83805",
+    "storage_bucket": "gomovies-83805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530337390973:android:875d89cd88bd26e1182c14",
+        "android_client_info": {
+          "package_name": "com.gomovies.hdmovies2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530337390973-mt2o9ef51t8b9i0sc3oh1qr9pv4dov1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC2aJLU8FP_twUIa6nwh6GE4teB0-wLfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530337390973-mt2o9ef51t8b9i0sc3oh1qr9pv4dov1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
